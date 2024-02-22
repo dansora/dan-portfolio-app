@@ -4,9 +4,7 @@ const NavigationBar = () => {
   return (
     <nav className="navbar navbar-expand-lg bg-body-tertiary">
       <div className="container-fluid">
-        <a className="navbar-brand" href="#">
-          Portfolio App
-        </a>
+        <a className="navbar-brand" href="#">Portfolio App</a>
         <button
           className="navbar-toggler"
           type="button"
