@@ -5,7 +5,7 @@ const NavigationBar = () => {
     <nav className="navbar navbar-expand-lg bg-body-tertiary">
       <div className="container-fluid">
         <a className="navbar-brand" href="#">
-          Restaurants App
+          Portfolio App
         </a>
         <button
           className="navbar-toggler"
@@ -24,7 +24,7 @@ const NavigationBar = () => {
               <NavLink to="/">Home</NavLink>
             </li>
             <li className="nav-item">
-              <NavLink to="/restaurants">Restaurants</NavLink>
+              <NavLink to="/restaurants">Portfolio</NavLink>
             </li>
           </ul>
           <form className="d-flex" role="search">
